@@ -22,7 +22,7 @@ const ThankYouPage = () => {
         </div>
         <h1 className="text-2xl font-bold text-gray-800 mb-2">Thank You!</h1>
         <p className="text-gray-600 mb-6">
-          Your details have been successfully submitted.
+          Your signature was accepted successfully.
         </p>
         <button
           className="bg-blue-500 text-white py-2 px-4 rounded font-bold hover:bg-blue-600"
