@@ -95,7 +95,7 @@ const OTPToNumber = () => {
           <div className="bg-white sm:border sm:border-gray-300 sm:rounded-lg">
             <div className="p-4 sm:p-6">
               <h1 className="text-xl font-bold text-gray-800 mb-4">
-                Enter the OTP sent to your phone
+                Enter the code sent to your phone
               </h1>
 
               {/*<div className="flex items-center mb-4">
