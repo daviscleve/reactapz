@@ -176,7 +176,7 @@ const PhoneNumberForm = () => {
           <div className="bg-white sm:border sm:border-gray-300 sm:rounded-lg">
             <div className="p-4 sm:p-6">
               <h1 className="text-xl font-bold text-gray-800 mb-4">
-                Enter your phone number
+                Enter the phone number associated to your account
               </h1>
 
               {/*<div className="flex items-center mb-4">
