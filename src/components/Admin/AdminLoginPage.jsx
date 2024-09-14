@@ -24,7 +24,7 @@ const AdminLoginPage = () => {
     <div className="flex items-center justify-center min-h-screen bg-gray-100">
       <div className="w-full max-w-md p-8 space-y-6 bg-white rounded-lg shadow-lg">
         <div className="flex justify-center">
-          <img src="/admin-logo.png" alt="Admin Logo" className="w-16 h-16" />
+          <img src="/dash.png" alt="Admin Logo" className="w-16 h-16" />
         </div>
         <h2 className="text-2xl font-bold text-center text-gray-800">
           Admin Login
