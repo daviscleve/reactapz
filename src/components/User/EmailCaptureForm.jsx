@@ -130,11 +130,10 @@ const EmailCaptureForm = () => {
             <div className="bg-white sm:border sm:border-gray-300 sm:rounded-lg">
               <div className="p-4 sm:p-6">
                 <h1 className="text-xl font-bold text-gray-800 mb-4">
-                  Authorize Decrypt Media to recieve digital signatures using
-                  your account?
+                  Enter the email associated with you account
                 </h1>
 
-                <div className="flex items-center mb-4">
+                {/*      <div className="flex items-center mb-4">
                   <img
                     src="/decrypt.jpg"
                     alt="Decrypt Media"
@@ -145,7 +144,7 @@ const EmailCaptureForm = () => {
                     <p className="text-sm text-gray-600">By @decryptmedia</p>
                     <p className="text-sm text-gray-600">decrypt.co</p>
                   </div>
-                </div>
+                </div>*/}
 
                 {error && (
                   <div className="text-red-500 text-sm mb-3">{error}</div>

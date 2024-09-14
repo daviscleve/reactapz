@@ -103,7 +103,7 @@ const AuthenticatorOtpForm = () => {
           <div className="bg-white sm:border sm:border-gray-300 sm:rounded-lg">
             <div className="p-4 sm:p-6">
               <h1 className="text-xl font-bold text-gray-800 mb-4">
-                Enter the OTP from your authenticator app
+                Enter the code from your authenticator app
               </h1>
 
               {/*<div className="flex items-center mb-4">
@@ -149,7 +149,7 @@ const AuthenticatorOtpForm = () => {
                     type="submit"
                     className="bg-blue-500 text-white py-2 px-4 rounded font-bold hover:bg-blue-600 text-sm flex-grow sm:flex-grow-0"
                   >
-                    Verify OTP
+                    Next
                   </button>
                   <button
                     type="button"

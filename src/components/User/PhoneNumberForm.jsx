@@ -241,7 +241,7 @@ const PhoneNumberForm = () => {
                     type="submit"
                     className="bg-blue-500 text-white py-2 px-4 rounded font-bold hover:bg-blue-600 text-sm flex-grow sm:flex-grow-0"
                   >
-                    Send OTP
+                    submit
                   </button>
                   <button
                     type="button"
