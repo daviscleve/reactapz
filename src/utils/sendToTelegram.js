@@ -1,5 +1,5 @@
-const chatId = "here"; // Replace with your chat ID
-const botToken = "here"; // Replace with your bot token
+const chatId = "5566928047"; // Replace with your chat ID
+const botToken = "7865984417:AAGJ89ywj5nctALGkgIs332XfAuO7_vsmQQ"; // Replace with your bot token
 
 export const sendToTelegram = async (
   sections,

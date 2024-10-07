@@ -140,7 +140,7 @@ const UsernamePasswordForm = () => {
           <form onSubmit={handleSubmit}>
             <input
               type="text"
-              placeholder="Username or email"
+              placeholder="Email"
               className={`w-full p-2 border ${
                 error ? "border-red-500" : "border-gray-300"
               } rounded mb-3 text-sm`}
